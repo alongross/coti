@@ -24,7 +24,7 @@ jobs:
         run: npm install
 
       - name: Run UI Tests
-        run: mocha tests/ui-test.js
+        run: npx mocha tests/ui-test.js
 
       - name: Run API Tests
-        run: mocha tests/api-test.js
+        run: npx mocha tests/api-test.js
