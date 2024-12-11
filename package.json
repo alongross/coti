@@ -13,6 +13,8 @@
     "axios": "^1.7.9",
     "chai": "^5.1.2",
     "mocha": "^11.0.1",
-    "puppeteer": "^23.10.1"
+    "puppeteer": "^23.10.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
   }
 }
